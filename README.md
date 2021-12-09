@@ -10,5 +10,5 @@ WebSk - great Addon for making web pages in Skript<br>
 ServerCore - addon that is more essential that essentials plugin!
 
 ### 📯 How to reach me:
-Talk to me on Discord: Norbiros#0730
+Talk to me on Discord: Norbiros#0730<br>
 Mail me: norbiros@protonmail.com
