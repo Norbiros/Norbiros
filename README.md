@@ -1,9 +1,9 @@
 # Hello World 👋
 
 ## 😄 About me:
-I am Norbiros. I live in Poland. I have 2.5 years of programming experience! <br>
-I know languages like Java, Kotlin, JS, TS, C++ and Scratch :D<br/>
-I also know how to write plugins and mods (forge, fabric) in minecraft
+I am Norbiros. I live in Poland. I have 3 years of programming experience! <br>
+I know languages like Java, Kotlin, JS, TS, Python, C++ and Scratch :D<br/>
+I also know how to write plugins and mods (forge, fabric) for minecraft
 My favourite IDEs are Intelij IDEA and Webstorm! <br>
 
 ## 🔭 I’m currently working on:
@@ -13,7 +13,7 @@ My favourite IDEs are Intelij IDEA and Webstorm! <br>
 
 ## 📯 How to reach me:
 Talk to me on Discord: Norbiros#0730<br>
-Mail me: norbiros@protonmail.com
+Mail me: `norbiros@protonmail.com`
 
 ## 💻 Technologies I use:
 <p align=center>
@@ -69,5 +69,5 @@ Mail me: norbiros@protonmail.com
 </p>
 
 ## 🧪 Stats
-<p align=center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Norbiros&theme=dark" alt="norbiros" /></p>
+<p align=center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Norbiros" alt="norbiros" /></p>
 <p align=center><img align="center" src="https://raw.githubusercontent.com/Norbiros/Norbiros/output/github-contribution-grid-snake.svg" /></p>
