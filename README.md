@@ -10,6 +10,7 @@ My favourite IDEs are Intelij IDEA and Webstorm! <br>
 <a href="https://github.com/ScratchAddons/ScratchAddons">ScratchAddons</a> - the best browser extension for Scratch<br>
 <a href="https://github.com/ScratchAddons/RadioBonPage">RadioBonPage</a> and <a href="https://github.com/ScratchAddons/RadioBON-API">RadioBonApi</a> - my school projects<br>
 <a href="https://github.com/ScratchAddons/SpaceMC-EU">SpaceMC</a> - plugins for minecraft server
+<a href="https://github.com/SiusiakDevelopers">FanthTeam</a> - projects for FanthCode and FanthPlay
 
 ## 📯 How to reach me:
 Talk to me on Discord: Norbiros#0730<br>
@@ -70,4 +71,10 @@ Mail me: `norbiros@protonmail.com`
 
 ## 🧪 Stats
 <p align=center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Norbiros" alt="norbiros" /></p>
-<p align=center><img align="center" src="https://raw.githubusercontent.com/Norbiros/Norbiros/output/github-contribution-grid-snake.svg" /></p>
+<p align=center>
+   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Norbiros/Norbiros/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Norbiros/Norbiros/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Norbiros/Norbiros/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
