@@ -71,9 +71,31 @@ Mail me: `norbiros@protonmail.com`
 </p>
 
 ## 🧪 Stats
-<p align=center><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Norbiros" alt="norbiros" /></p>
 <p align=center>
-   <picture>
+  <img align="center" src="https://komarev.com/ghpvc/?username=Norbiros&style=for-the-badge"/><br><br>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=Norbiros&hide=stars&theme=dark&include_all_commits=true&show_icons=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Norbiros&hide=stars&include_all_commits=true&show_icons=true&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=Norbiros&hide=stars&show_icons=true&hide_border=true&include_all_commits=true" />
+  </picture>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Norbiros&exclude_repo=ConsoleGames&theme=dark&layout=compact&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Norbiros&exclude_repo=ConsoleGames&layout=compact&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Norbiros&exclude_repo=ConsoleGames&layout=compact&hide_border=true" />
+  </picture>
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Norbiros/Norbiros/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Norbiros/Norbiros/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/Norbiros/Norbiros/output/github-contribution-grid-snake.svg" />
