@@ -1,15 +1,14 @@
 # Hello World 👋
 
 ## 😄 About me:
-I am Norbiros. I live in Poland. I have 3 years of programming experience! <br>
+I am Norbiros. I live in Poland. I have 3.5 years of programming experience! <br>
 I know languages like Java, Kotlin, JS, TS, Python, C++ and Scratch :D<br/>
-I also know how to write plugins and mods (forge, fabric) for minecraft
-My favourite IDEs are Intelij IDEA and Webstorm! <br>
+My favourite IDEs are from JetBrains! <br>
 
 ## 🔭 I’m currently working on:
 <a href="https://github.com/ScratchAddons/ScratchAddons">ScratchAddons</a> - the best browser extension for Scratch<br>
 <a href="https://github.com/ScratchAddons/RadioBonPage">RadioBonPage</a> and <a href="https://github.com/ScratchAddons/RadioBON-API">RadioBonApi</a> - my school projects<br>
-<a href="https://github.com/ScratchAddons/SpaceMC-EU">SpaceMC</a> - plugins for minecraft server
+<a href="https://github.com/ScratchAddons/SpaceMC-EU">SpaceMC</a> - plugins for minecraft server<br>
 <a href="https://github.com/SiusiakDevelopers">FanthTeam</a> - projects for FanthCode and FanthPlay
 
 ## 📯 How to reach me:
@@ -18,7 +17,9 @@ Mail me: `norbiros@protonmail.com`
 
 ## 💻 Technologies I use:
 <p align=center>
-  <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
