@@ -72,7 +72,6 @@ Mail me: `norbiros@protonmail.com`
 
 ## 🧪 Stats
 <p align=center>
-  <img align="center" src="https://komarev.com/ghpvc/?username=Norbiros&style=for-the-badge"/><br><br>
   <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api?username=Norbiros&hide=stars&theme=dark&include_all_commits=true&show_icons=true"
