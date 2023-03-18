@@ -6,10 +6,10 @@ I know languages like Java, Kotlin, JS, TS, Python, C++ and Scratch :D<br/>
 My favourite IDEs are from JetBrains! <br>
 
 ## 🔭 I’m currently working on:
-<a href="https://github.com/ScratchAddons/ScratchAddons">ScratchAddons</a> - the best browser extension for Scratch<br>
-<a href="https://github.com/ScratchAddons/RadioBonPage">RadioBonPage</a> and <a href="https://github.com/ScratchAddons/RadioBON-API">RadioBonApi</a> - my school projects<br>
 <a href="https://github.com/ScratchAddons/SpaceMC-EU">SpaceMC</a> - plugins for minecraft server<br>
 <a href="https://github.com/SiusiakDevelopers">FanthTeam</a> - projects for FanthCode and FanthPlay
+<a href="https://github.com/Norbiros/librus-api-v2">LibrusAPI v2</a> - new and better librus API
+
 
 ## 📯 How to reach me:
 Talk to me on Discord: Norbiros#0730<br>
