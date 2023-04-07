@@ -7,7 +7,7 @@ My favourite IDEs are from JetBrains! <br>
 
 ## 🔭 I’m currently working on:
 <a href="https://github.com/ScratchAddons/SpaceMC-EU">SpaceMC</a> - plugins for minecraft server<br>
-<a href="https://github.com/SiusiakDevelopers">FanthTeam</a> - projects for FanthCode and FanthPlay<br>
+<a href="https://github.com/SiusiakDevelopers">FanthStudios</a> - projects for FanthCode and FanthPlay<br>
 <a href="https://github.com/Norbiros/librus-api-v2">LibrusAPI v2</a> - new and better librus API
 
 
