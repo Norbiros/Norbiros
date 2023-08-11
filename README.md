@@ -6,7 +6,8 @@ I am mainly working in Java, Kotlin, TS and Vue. I love linux ❤️<br/>
 
 ## 🔭 I’m currently working on:
 <a href="https://github.com/ScratchAddons/SpaceMC-EU">SpaceMC</a> - plugins for minecraft server<br>
-<a href="https://github.com/SiusiakDevelopers">FanthStudios</a> - projects for FanthStudios and FanthPlay<br>
+<a href="https://github.com/FanthStudios">FanthStudios</a> - projects for FanthStudios and FanthPlay<br>
+<a href="https://github.com/Norbiros/emojitype">EmojiType</a> - minecraft mod that allows to easily type emoji and emoticons in game.<br>
 
 ## 📯 How to reach me:
 Talk to me on Discord: Norbiros<br>
