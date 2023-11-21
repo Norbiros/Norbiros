@@ -6,7 +6,7 @@ I am mainly working in Java, Kotlin, TS and Vue. I love linux ❤️<br/>
 
 ## 🔭 I’m currently working on:
 <a href="https://github.com/ScratchAddons/SpaceMC-EU">SpaceMC</a> - plugins for minecraft server<br>
-<a href="https://github.com/Norbiros/MobidziennikAPI">MobidziennikAPI</a> - TypeScript web scraping API for Polish e-gradebook MobiDziennik. <br>
+<a href="https://github.com/Norbiros/MobidziennikAPI">MobidziennikSDK</a> - TypeScript web scraping SDK for Polish e-gradebook MobiDziennik. <br>
 <a href="https://github.com/Norbiros/emojitype">EmojiType</a> - minecraft mod that allows to easily type emoji and emoticons in game.<br>
 
 ## 📯 How to reach me:
