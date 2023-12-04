@@ -110,14 +110,14 @@ Mail me: `norbiros@protonmail.com`
   </picture>
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Norbiros&exclude_repo=ConsoleGames&theme=dark&layout=compact&hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Norbiros&theme=dark&layout=compact&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Norbiros&exclude_repo=ConsoleGames&layout=compact&hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Norbiros&layout=compact&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Norbiros&exclude_repo=ConsoleGames&layout=compact&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Norbiros&layout=compact&hide_border=true" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Norbiros/Norbiros/output/github-contribution-grid-snake-dark.svg" />
