@@ -1,6 +1,6 @@
 # Hello World 👋
 
-## 😄 About me:
+## 😃 About me:
 I am young, polish programmer. I have 3.5 years of programming experience! <br>
 I am mainly working in Java, Kotlin, TS and Vue. I love linux ❤️<br/>
 
@@ -103,7 +103,7 @@ Mail me: `norbiros@protonmail.com`
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Norbiros&hide=stars&include_all_commits=true&show_icons=true&hide_border=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=Norbiros&hide=stars&show_icons=true&hide_border=true&include_all_commits=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
     <img src="https://github-readme-stats.vercel.app/api?username=Norbiros&hide=stars&show_icons=true&hide_border=true&include_all_commits=true" />
