@@ -5,8 +5,9 @@ I am young, polish programmer. I have 3.5 years of programming experience! <br>
 I am mainly working in Java, Kotlin, TS and Vue. I love linux ❤️<br/>
 
 ## 🔭 I’m currently working on:
-<a href="https://github.com/ScratchAddons/SpaceMC-EU">SpaceMC</a> - plugins for minecraft server<br>
+<a href="https://github.com/SpaceMC/SpaceMC-EU">SpaceMC</a> - plugins for minecraft server<br>
 <a href="https://github.com/Norbiros/MobidziennikAPI">MobidziennikSDK</a> - TypeScript web scraping SDK for Polish e-gradebook MobiDziennik. <br>
+<a href="https://github.com/CrabCraftDev">CrabCraft</a> - A minecraft server implementation in Rust, with ability to load Paper plugins.<br>
 <a href="https://github.com/Norbiros/emojitype">EmojiType</a> - minecraft mod that allows to easily type emoji and emoticons in game.<br>
 
 ## 📯 How to reach me:
