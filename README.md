@@ -1,7 +1,8 @@
 # Hello World 👋
 
 ## 😃 About me:
-I am young, polish programmer. I have 3.5 years of programming experience! <br>
+<!-- I started around May 2021 -->
+I am young, polish programmer. I have 3 years of programming experience! <br>
 I am mainly working in Java, Kotlin, TS and Vue. I love linux ❤️<br/>
 
 ## 🔭 I’m currently working on:
@@ -98,16 +99,17 @@ Mail me: `norbiros@protonmail.com`
 
 ## 🧪 Stats
 <p align=center>
+  <!-- https://streak-stats.demolab.com/?user=Norbiros -->
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=Norbiros&hide=stars&theme=dark&include_all_commits=true&show_icons=true"
+      srcset="https://github-readme-stats.vercel.app/api?username=Norbiros&theme=dark&include_all_commits=true&show_icons=true"
       media="(prefers-color-scheme: dark)"
     />
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=Norbiros&hide=stars&show_icons=true&hide_border=true&include_all_commits=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=Norbiros&hide=stars&show_icons=true&hide_border=true&include_all_commits=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Norbiros&show_icons=true&hide_border=true&include_all_commits=true" />
   </picture>
   <picture>
     <source 
