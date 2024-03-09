@@ -102,29 +102,28 @@ Mail me: `norbiros@protonmail.com`
   <!-- https://streak-stats.demolab.com/?user=Norbiros -->
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=Norbiros&theme=dark&include_all_commits=true&show_icons=true"
+      srcset="https://streak-stats.demolab.com/?user=Norbiros&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Norbiros&hide=stars&show_icons=true&hide_border=true&include_all_commits=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    <img src="https://streak-stats.demolab.com/?user=Norbiros" />
+  </picture>
+  <br>
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=Norbiros&theme=dark&include_all_commits=true&show_icons=true&hide=commits"
+      media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=Norbiros&show_icons=true&hide_border=true&include_all_commits=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Norbiros&show_icons=true&hide_border=true&include_all_commits=true&hide=commits" />
   </picture>
   <picture>
     <source 
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Norbiros&theme=dark&layout=compact&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Norbiros&layout=compact&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Norbiros&layout=compact&hide_border=true" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Norbiros/Norbiros/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Norbiros/Norbiros/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://raw.githubusercontent.com/Norbiros/Norbiros/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
