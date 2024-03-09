@@ -102,10 +102,10 @@ Mail me: `norbiros@protonmail.com`
   <!-- https://streak-stats.demolab.com/?user=Norbiros -->
   <picture>
     <source 
-      srcset="https://streak-stats.demolab.com/?user=Norbiros&theme=dark"
+      srcset="https://streak-stats.demolab.com/?user=Norbiros&theme=dark&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://streak-stats.demolab.com/?user=Norbiros" />
+    <img src="https://streak-stats.demolab.com/?user=Norbiros&hide_border=true" />
   </picture>
   <br>
   <picture>
