@@ -3,13 +3,13 @@
 ## 😃 About me:
 <!-- I started around May 2021 -->
 I am young, polish programmer. I have 3 years of programming experience! <br>
-I am mainly working in Java, Kotlin, TS and Vue. I love linux ❤️<br/>
+I am mainly working in Java, Kotlin, Rust, TS and Vue. I love linux ❤️<br/>
 
 ## 🔭 I’m currently working on:
-<a href="https://github.com/SpaceMC/SpaceMC-EU">SpaceMC</a> - plugins for minecraft server<br>
-<a href="https://github.com/Norbiros/MobidziennikAPI">MobidziennikSDK</a> - TypeScript web scraping SDK for Polish e-gradebook MobiDziennik. <br>
 <a href="https://github.com/CrabCraftDev">CrabCraft</a> - A minecraft server implementation in Rust, with ability to load Paper plugins.<br>
-<a href="https://github.com/Norbiros/emojitype">EmojiType</a> - minecraft mod that allows to easily type emoji and emoticons in game.<br>
+<a href="https://github.com/Norbiros/emojitype">EmojiType</a> - a mod that lets you type Minecraft emojis easier!<br>
+<a href="https://github.com/Norbiros/MobidziennikAPI">MobidziennikSDK</a> - TypeScript web scraping SDK for Polish e-gradebook MobiDziennik. <br>
+<a href="https://github.com/SpaceMC/SpaceMC-EU">SpaceMC</a> - plugins for minecraft server<br>
 
 ## 📯 How to reach me:
 Talk to me on Discord: Norbiros<br>
@@ -17,6 +17,7 @@ Mail me: `norbiros@protonmail.com`
 
 ## 💻 Technologies I use:
 <p align=center>
+  <img src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white"/>
   <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>
@@ -54,7 +55,6 @@ Mail me: `norbiros@protonmail.com`
   <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E"/>
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/micro:bit-00ED00?style=for-the-badge&logo=micro:bit&logoColor=white"/>
