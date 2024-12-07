@@ -196,3 +196,5 @@ Mail me: `norbiros@protonmail.com`
     <img alt="github-snake" src="https://raw.githubusercontent.com/Norbiros/Norbiros/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+
+<sup>*Every fool can write code that a computer can understand. Good programmers write code that humans can understand.* - Martin Fowler</sup>
