@@ -169,12 +169,13 @@ Mail me: `norbiros@protonmail.com`
 ## 🧪 Stats
 <p align=center>
   <!-- https://streak-stats.demolab.com/?user=Norbiros -->
+  
   <picture>
     <source 
-      srcset="https://streak-stats.demolab.com/?user=Norbiros&theme=dark&hide_border=true"
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=Norbiros&theme=dark&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://streak-stats.demolab.com/?user=Norbiros&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Norbiros&hide_border=true" />
   </picture>
   <br>
   <picture>
