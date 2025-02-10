@@ -8,7 +8,7 @@ I mainly work in Kotlin, Rust, TS, Vue and Svelte. I love linux ❤️<br/>
 ## 🔭 I’m currently working on:
 <a href="https://github.com/CrabCraftDev">CrabCraft</a> - A Rust-based Minecraft server implementation with support for Paper plugins.<br>
 <a href="https://github.com/Norbiros/emojitype">EmojiType</a> - a mod that lets you type Minecraft emojis easier!<br>
-<a href="https://github.com/Norbiros/code">Modrinth</a> - The best platform for publishing Minecraft mods & more.<br>
+<a href="https://github.com/Hack4Krak/">Hack4Krak</a> - Website for managing one of the largest CTFs in Poland.<br>
 <a href="https://kartelore.eu">KarteLore</a> - Developing plugins for a geopolitics Minecraft server.<br>
 
 
