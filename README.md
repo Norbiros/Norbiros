@@ -9,11 +9,12 @@ I mainly work in Kotlin, Rust, TS, Vue and Svelte. I love linux ❤️
 [KarteLore](https://kartelore.eu) - Developing plugins for a geopolitics Minecraft server.<br>
 
 ## 🐈 What I am proud of:
-[EmojiType](https://github.com/Norbiros/emojitype) - a mod that lets you type Minecraft emojis easier!\
+[EmojiType](https://github.com/Norbiros/emojitype) - a mod that makes typing Minecraft emojis easier (with over 1 million downloads)!\
 [SpaceMC](https://github.com/SpaceMC-EU/) - a lot of completly custom plugins for Minecraft server written in Kotlin!\
 [DenoriaUtils](https://github.com/Norbiros/DenoriaUtils) - simple plugin for denoria.pl Minecraft server\
 [Advent of Code](https://github.com/Norbiros/AoC2024) - my solutions for AoC in `2023 - 2024` written in Go & Python\
 [Gwardia Czapli](https://github.com/Gwardia-Czapli) - tutoring project for members of my highschool\
+[Chroble](https://github.com/Norbiros/chroble) - a Wordle-style game featuring questions about Polish history developed in Nuxt \
 [MobidziennikSDK](https://github.com/Norbiros/MobidziennikSDK) - TypeScript web scraping SDK for Polish e-gradebook MobiDziennik
 
 ## 📯 How to reach me:
