@@ -1,12 +1,12 @@
 # About me
 <!-- I started around May 2021 -->
-I'm a Polish programmer with with 3.5 years of experience!\
+I'm a Polish programmer with with 4 years of experience!\
 I mainly work in Kotlin, Rust, TS, Vue and Svelte. I love linux ❤️
 
 ## 🔭 I’m currently working on:
 [CrabCraft](https://github.com/CrabCraftDev) - A Rust-based Minecraft server implementation with support for Paper plugins.<br>
 [Hack4Krak](https://github.com/Hack4Krak) - Website for managing one of the largest CTFs in Poland.<br>
-[KarteLore](https://kartelore.eu) - Developing plugins for a geopolitics Minecraft server.<br>
+[nuxt-open-fetch](https://github.com/enkot/nuxt-open-fetch) - Nuxt module for generation of zero-overhead, typed OpenAPI clients<br>
 
 ## 🐈 What I am proud of:
 [EmojiType](https://github.com/Norbiros/emojitype) - a mod that makes typing Minecraft emojis easier (with over 1 million downloads)!\
