@@ -1,21 +1,21 @@
 # About me
 <!-- I started around May 2021 -->
-I'm a Polish programmer with with 4 years of experience!\
+I'm a Polish programmer with 4 years of experience!\
 I mainly work in Kotlin, Rust, TS, Vue and Svelte. I love linux ❤️
 
 ## 🔭 I’m currently working on:
-[CrabCraft](https://github.com/CrabCraftDev) - A Rust-based Minecraft server implementation with support for Paper plugins.<br>
-[Hack4Krak](https://github.com/Hack4Krak) - Website for managing one of the largest CTFs in Poland.<br>
-[nuxt-open-fetch](https://github.com/enkot/nuxt-open-fetch) - Nuxt module for generation of zero-overhead, typed OpenAPI clients<br>
+[CrabCraft](https://github.com/CrabCraftDev) - A Rust-based Minecraft server implementation with support for Paper plugins. (Rust, Python, Java)<br>
+[Hack4Krak](https://github.com/Hack4Krak) - Website for managing one of the largest CTFs in Poland. (Rust, Nuxt)<br>
+[nuxt-open-fetch](https://github.com/enkot/nuxt-open-fetch) - Nuxt module for generation of zero-overhead, typed OpenAPI clients. (TS)<br>
 
 ## 🐈 What I am proud of:
-[EmojiType](https://github.com/Norbiros/emojitype) - a mod that makes typing Minecraft emojis easier (with over 1 million downloads)!\
-[SpaceMC](https://github.com/SpaceMC-EU/) - a lot of completly custom plugins for Minecraft server written in Kotlin!\
-[DenoriaUtils](https://github.com/Norbiros/DenoriaUtils) - simple plugin for denoria.pl Minecraft server\
+[EmojiType](https://github.com/Norbiros/emojitype) - a mod that makes typing Minecraft emojis easy and fast, with over 1.5 million downloads! (Java)\
+[SpaceMC](https://github.com/SpaceMC-EU/) - a lot of completly custom plugins for Minecraft server (Kotlin)\
+[DenoriaUtils](https://github.com/Norbiros/DenoriaUtils) - simple plugin for denoria.pl Minecraft server (Kotlin)\
 [Advent of Code](https://github.com/Norbiros/AoC2024) - my solutions for AoC in `2023 - 2024` written in Go & Python\
-[Gwardia Czapli](https://github.com/Gwardia-Czapli) - tutoring project for members of my highschool\
-[Chroble](https://github.com/Norbiros/chroble) - a Wordle-style game featuring questions about Polish history developed in Nuxt \
-[MobidziennikSDK](https://github.com/Norbiros/MobidziennikSDK) - TypeScript web scraping SDK for Polish e-gradebook MobiDziennik
+[Gwardia Czapli](https://github.com/Gwardia-Czapli) - tutoring project for members of my highschool (Python, Nuxt)\
+[Chroble](https://github.com/Norbiros/chroble) - a Wordle-style game featuring questions about Polish history (Nuxt)\
+[MobidziennikSDK](https://github.com/Norbiros/MobidziennikSDK) - TypeScript web scraping SDK for Polish e-gradebook MobiDziennik (TS)
 
 ## 📯 How to reach me:
 Talk to me on Discord: Norbiros\
