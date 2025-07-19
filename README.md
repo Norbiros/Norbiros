@@ -6,7 +6,8 @@ I mainly work in Kotlin, Rust, TS, Vue and Svelte. I love linux ❤️
 ## 🔭 I’m currently working on:
 [CrabCraft](https://github.com/CrabCraftDev) - A Rust-based Minecraft server implementation with support for Paper plugins. (Rust, Python, Java)<br>
 [Hack4Krak](https://github.com/Hack4Krak) - Website for managing one of the largest CTFs in Poland. (Rust, Nuxt)<br>
-[nuxt-open-fetch](https://github.com/enkot/nuxt-open-fetch) - Nuxt module for generation of zero-overhead, typed OpenAPI clients. (TS)<br>
+[nuxt-open-fetch](https://github.com/Norbiros/nuxt-open-fetch) - Nuxt module for generation of zero-overhead, typed OpenAPI clients. (TS)<br>
+[nuxt-auto-form](https://github.com/Norbiros/nuxt-auto-form) - Nuxt modules that allows to auto-generate Nuxt UI forms from Zod 4 schemas. (TS, Vue)<br>
 
 ## 🐈 What I am proud of:
 [EmojiType](https://github.com/Norbiros/emojitype) - a mod that makes typing Minecraft emojis easy and fast, with over 1.5 million downloads! (Java)\
