@@ -140,20 +140,12 @@ E-Mail me: `norbiros@protonmail.com`
     />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Norbiros&hide_border=true" />
   </picture>
-  <br>
   <picture>
     <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=Norbiros&theme=dark&include_all_commits=true&show_icons=true&hide=commits"
+      srcset="https://github-readme-stats.vercel.app/api?username=Norbiros&theme=dark&show_icons=true&hide_border=true"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=Norbiros&show_icons=true&hide_border=true&include_all_commits=true&hide=commits" />
-  </picture>
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Norbiros&theme=dark&layout=compact&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Norbiros&layout=compact&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Norbiros&show_icons=true&hide_border=true" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Norbiros/Norbiros/output/github-contribution-grid-snake-dark.svg" />
