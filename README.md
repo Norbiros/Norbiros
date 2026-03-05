@@ -10,7 +10,7 @@ I mainly work in Kotlin, Rust, TS, Vue and Svelte. I love linux ❤️
 [nuxt-auto-form](https://github.com/Norbiros/nuxt-auto-form) - Nuxt modules that allows to auto-generate Nuxt UI forms from Zod 4 schemas. (TS, Vue)<br>
 
 ## 🐈 What I am proud of:
-[EmojiType](https://github.com/Norbiros/emojitype) - a mod that makes typing Minecraft emojis easy and fast, with over 1.5 million downloads! (Java)\
+[EmojiType](https://github.com/Norbiros/emojitype) - a mod that makes typing Minecraft emojis easy and fast, with over 3 million downloads! (Java)\
 [SpaceMC](https://github.com/SpaceMC-EU/) - a lot of completly custom plugins for Minecraft server (Kotlin)\
 [DenoriaUtils](https://github.com/Norbiros/DenoriaUtils) - simple plugin for denoria.pl Minecraft server (Kotlin)\
 [Advent of Code](https://github.com/Norbiros/AoC2024) - my solutions for AoC in `2023 - 2024` written in Go & Python\
@@ -141,11 +141,11 @@ E-Mail me: `norbiros@protonmail.com`
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Norbiros&hide_border=true" />
   </picture>
   <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=Norbiros&theme=dark&show_icons=true&hide_border=true"
+    <source
+      srcset="https://raw.githubusercontent.com/Norbiros/Norbiros/output/stats-dark.svg"
       media="(prefers-color-scheme: dark)"
     />
-    <img src="https://github-readme-stats.vercel.app/api?username=Norbiros&show_icons=true&hide_border=true" />
+    <img src="https://raw.githubusercontent.com/Norbiros/Norbiros/output/stats.svg" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Norbiros/Norbiros/output/github-contribution-grid-snake-dark.svg" />
